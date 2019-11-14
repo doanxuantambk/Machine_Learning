@@ -1,1 +1,2 @@
-1
+activate enviroment conda:
+`source activate dev`
